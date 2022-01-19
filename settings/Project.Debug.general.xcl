@@ -1,0 +1,15 @@
+"Z:\IAR for ARM\arm\bin\armproc.dll" 
+
+"Z:\IAR for ARM\arm\bin\armstlink2.dll" 
+
+"Z:\STM\прошивки\stm32f303_WFU(20131)_без источника\Debug\Exe\template_file.out " 
+
+--plugin="Z:\IAR for ARM\arm\bin\armbat.dll" 
+
+--device_macro="Z:\IAR for ARM\arm\config\debugger\ST\STM32F3xx.dmac" 
+
+--flash_loader="Z:\IAR for ARM\arm\config\flashloader\ST\FlashSTM32F3xxxB.board" 
+
+
+
+

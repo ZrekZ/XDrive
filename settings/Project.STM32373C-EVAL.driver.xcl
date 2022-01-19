@@ -1,0 +1,19 @@
+"--endian=little" 
+
+"--cpu=Cortex-M4" 
+
+"--fpu=VFPv4_SP" 
+
+"-p" 
+
+"D:\science\iar ewarm 7.5\arm\CONFIG\debugger\ST\STM32F373x8.ddf" 
+
+"--semihosting" 
+
+"--device=STM32F373x8" 
+
+"--multicore_nr_of_cores=1" 
+
+
+
+

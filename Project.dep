@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>699384521</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\dac.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\i2c.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\crc.o</file>
+            <file>$PROJ_DIR$\Hardware\spi.h</file>
+            <file>$PROJ_DIR$\Hardware\IOs.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\transmission.pbi</file>
+            <file>$PROJ_DIR$\Hardware\hardware.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f3xx.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\dac.o</file>
+            <file>$PROJ_DIR$\Hardware\switches.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\transmission.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\dma.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\indicator.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\system.pbi</file>
+            <file>$PROJ_DIR$\Hardware\hw_ctrl.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Timers.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\indicator.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi.__cstat.et</file>
+            <file>$PROJ_DIR$\Software\transmission.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\hw_ctrl.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\Project.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\i2c.o</file>
+            <file>$PROJ_DIR$\Hardware\dma.h</file>
+            <file>$PROJ_DIR$\Software\pi_reg.h</file>
+            <file>$PROJ_DIR$\Hardware\crc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\pi_reg.__cstat.et</file>
+            <file>$PROJ_DIR$\Hardware\Timers.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\system\system_stm32f3xx.c</file>
+            <file>$PROJ_DIR$\system\system.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\adc.pbi</file>
+            <file>$PROJ_DIR$\system\startup_stm32f303xc.s</file>
+            <file>$PROJ_DIR$\Hardware\hw_ctrl.c</file>
+            <file>$PROJ_DIR$\Hardware\dac.c</file>
+            <file>$PROJ_DIR$\Hardware\spi.c</file>
+            <file>$PROJ_DIR$\Hardware\irq.c</file>
+            <file>$PROJ_DIR$\Hardware\switches.c</file>
+            <file>$PROJ_DIR$\Hardware\usart.c</file>
+            <file>$PROJ_DIR$\Software\indicator.c</file>
+            <file>$PROJ_DIR$\Software\pi_reg.c</file>
+            <file>$PROJ_DIR$\Hardware\adc.c</file>
+            <file>$PROJ_DIR$\Hardware\dma.c</file>
+            <file>$PROJ_DIR$\Hardware\IOs.c</file>
+            <file>$PROJ_DIR$\Hardware\Timers.c</file>
+            <file>$PROJ_DIR$\Software\menu.c</file>
+            <file>$PROJ_DIR$\Hardware\crc.c</file>
+            <file>$PROJ_DIR$\Hardware\i2c.c</file>
+            <file>$PROJ_DIR$\Software\transmission.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\pi_reg.pbi</file>
+            <file>$PROJ_DIR$\Hardware\irq.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmSimd.h</file>
+            <file>$PROJ_DIR$\system\system.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\IOs.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\system.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\indicator.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\IOs.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\adc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\crc.pbi</file>
+            <file>$PROJ_DIR$\Software\indicator.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\hw_ctrl.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\switches.pbi</file>
+            <file>$PROJ_DIR$\main.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f3xx.pbi</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\dma.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\menu.o</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_compiler.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_iccarm.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\cmsis_version.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\core_cm4.h</file>
+            <file>$PROJ_DIR$\Hardware\i2c.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_stm32f3xx.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\usart.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\system\system_stm32f3xx.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\template_file.out</file>
+            <file>$PROJ_DIR$\Hardware\usart.h</file>
+            <file>$PROJ_DIR$\Hardware\adc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\menu.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\switches.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\Project.hex</file>
+            <file>$PROJ_DIR$\Debug\Obj\menu.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Core\Include\mpu_armv7.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\iar_intrinsics_common.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\spi.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\crc.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\irq.pbi</file>
+            <file>$PROJ_DIR$\Debug\List\template_file.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\adc.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\irq.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\usart.__cstat.et</file>
+            <file>$PROJ_DIR$\Hardware\dac.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\IOs.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\usart.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\irq.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\transmission.o</file>
+            <file>$PROJ_DIR$\system\stm32f303xc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\dac.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\hw_ctrl.o</file>
+            <file>$PROJ_DIR$\Software\menu.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\Timers.pbi</file>
+            <file>$PROJ_DIR$\Debug\Obj\dma.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\pi_reg.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_stm32f303xc.o</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Debug\List\template_file.log</file>
+            <file>$PROJ_DIR$\Debug\Obj\i2c.pbi</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\system\stm32f303xc_flash.icf</file>
+            <file>$PROJ_DIR$\Debug\Obj\switches.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Timers.__cstat.et</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 85 102 123</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system\system_stm32f3xx.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57 96 128 10 93 84 72 113 59 64 95 9 112 104 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system\system.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84 57 128 93 58 96 10 72 113 59 64 95 9 112 104 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\system\startup_stm32f303xc.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 121</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\hw_ctrl.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 125 95 113 9 84 72 112 96 10 57 11 20 104 59 128 64 93</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\dac.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 114</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 1</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57 128 84 93 107 96 10 72 113 59 64 95 9 112 104 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\spi.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 99</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 23</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57 10 128 96 93 5 84 72 113 59 64 95 9 112 104 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\irq.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 101</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 110</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57 128 84 93 56 96 10 72 113 59 64 95 9 112 104 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\switches.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 127</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96 93 10 113 128 64 14 84 104 59 95 9 112 72 57 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\usart.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72 31 84 113 116 95 125 9 86 29 96 10 57 11 112 104 59 128 64 93</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Software\indicator.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Software\pi_reg.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 55</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\adc.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 103</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 112 79 10 113 95 59 125 11 78 75 77 76 92 84 87 30 52 31 40 107 48 29 33 39 20 53 80 116 45 67 49 6 42 56 122 70 8 5 14 86 24 51 46 41 43 36 58 35 50 93 98 54 44</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95 9 96 104 59 30 10 87 84 113 128 64 93 112 72 57 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\dma.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 119</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95 9 10 104 59 33 96 29 30 84 113 128 64 93 112 72 57 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\IOs.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 108</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57 84 128 93 112 96 10 72 113 59 64 95 9 6 104 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\Timers.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 118</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 129</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57 128 93 84 112 96 10 72 113 59 64 95 9 33 104 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Software\menu.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67 14 80 116</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\crc.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57 84 128 93 31 96 10 72 113 59 64 95 9 112 104 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Hardware\i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 124</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96 93 29 10 113 128 64 80 116 84 104 59 95 9 112 72 57 125 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Software\transmission.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 7</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 15</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 5 116 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\template_file.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 90</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 102 123</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 126 65 4 13 73 115 28 18 63 105 0 74 120 17 121 89 94 12 21 111 109 97 2 34 25</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 117</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80 14 107 6 84 113 112 33 30 24 75 95 8 5 56 29 116 87 86 31 79 10 78 70 92 59 125 11 77 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\system\system_stm32f3xx.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\system\system.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\hw_ctrl.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\dac.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\spi.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\irq.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\switches.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\usart.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Software\indicator.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Software\pi_reg.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\dma.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\IOs.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\Timers.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Software\menu.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\crc.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Hardware\i2c.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\Software\transmission.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>$PROJ_DIR$\main.c</name>
+            <tool>ICCARM</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
